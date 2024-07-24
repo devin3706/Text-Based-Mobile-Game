@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Game_1">
+        <activity
+            android:name=".chap1_prevGames"
+            android:exported="false" />
+        <activity
+            android:name=".chap1_epilogue3_plt4dec42"
+            android:exported="false" />
+        <activity
+            android:name=".chap1_plot_sp_4_plt4dec43"
+            android:exported="false" />
+        <activity
+            android:name=".chap1_plot3_plt2dec21"
+            android:exported="false" />
+        <activity
+            android:name=".chap1_plot3_plt2dec22"
+            android:exported="false" />
+        <activity
+            android:name=".chap1_plot_sp_3_plt3dec33"
+            android:exported="false" />
+        <activity
+            android:name=".chap1_epilogue1_plt1dec13"
+            android:exported="false" />
+        <activity
+            android:name=".chap1_epilogue4_plt3dec32"
+            android:exported="false" />
+        <activity
+            android:name=".chap1_plot3_plt1dec12"
+            android:exported="false" />
+        <activity
+            android:name=".chap1_result"
+            android:exported="false" />
+        <activity
+            android:name=".chap1_epilogue2_plt4dec41"
+            android:exported="false" />
+        <activity
+            android:name=".chap1_bridge1"
+            android:exported="false" />
+        <activity
+            android:name=".chap1_plot4_plt3dec31"
+            android:exported="false" />
+        <activity
+            android:name=".chap1_plot3_plt2"
+            android:exported="false" />
+        <activity
+            android:name=".chap1_plot2_plt1dec11"
+            android:exported="false" />
+        <activity
+            android:name=".chap1_plot1"
+            android:exported="false" />
+        <activity
+            android:name=".chap1_prologue"
+            android:exported="false" />
+        <activity
+            android:name=".chap1_startPage"
+            android:exported="false" />
+        <activity
+            android:name=".onBoarding_page_2"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+    </application>
+
+</manifest>

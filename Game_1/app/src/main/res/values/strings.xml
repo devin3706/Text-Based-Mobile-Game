@@ -1,0 +1,108 @@
+<resources>
+    <string name="app_name">Game_1</string>
+
+    //summary
+    <string name="intellect">Intellect</string>
+    <string name="attitude">Attitude</string>
+    <string name="status">Objective</string>
+    <string name="other">Other</string>
+    <string name="adventurous">Adventure</string>
+
+    //titles
+    <string name="gameName">♦️Mythical Dynasty</string>
+    <string name="titleCaption_1">Create your own story...</string>
+    <string name="titleCaption_2">Your destiny is yours to write</string>
+    <string name="chap_num">Chapter I :</string>
+    <string name="chap_title">2 Parts of a Relic</string>
+    <string name="objective">♦️Find the 2 parts of the Relic♦️</string>
+    <string name="decisions">Decisions</string>
+    <string name="next">NEXT | ➡</string>
+    <string name="bestgame">🏆 Best Game</string>
+    <string name="prevgame">🎮 Last Game</string>
+    <string name="cont">Get back to where you left off</string>
+    <string name="newGame">Start New Game</string>
+    <string name="entername">Enter Game Name</string>
+
+    //plots
+    <string name="prologue">
+        It is an era of mythical times, and power struggles within great sects in nations while you, Xio Dan are living in a remote peaceful village along with your friends and your best friend Yan Hong. As kids who barely turned 10, you and your friends are playing in the village fields to your hearts content. After a long day of joy, you and your friends bid goodbyes and scattered to your homes.
+    </string>
+
+    <string name="plot_1">
+        After dark night hits the village you feel an ominous pressure that wakes you up.
+    </string>
+
+    <string name="plot_2_dec_1.1">
+        You mutter in confusion at the sight of an old monk-like figure near a tree. As you cautiously draw closer, he suddenly grabs you and hurries away. Glancing back, you spot a pursuer, intent on harm. With a powerful outburst of yellow magic, the monk illuminates the village, thwarting the attacker and escaping with you to a nearby shrine.
+    </string>
+
+    <string name="plot_2_dec_1.2">
+        Drowsy, your parents dismiss your concern and urge you to return to sleep. Curiosity leads you to peek outside, but you spot nothing amiss. Emboldened by adventure, you venture out and are suddenly blinded by a bright light. Before you can react, a shadowy figure knocks you out. The next thing you know, you awaken in the village shrine beside your friend Yan. Confused, you rouse him, and together you return to the village to find chaos: villagers murdered, homes ablaze, and structures crumbling. A stranger intervenes, covering your eyes and urging you both to follow him to his sect for sanctuary.
+    </string>
+
+    <string name="plot_3_dec_2.1_part1">
+        The monk chuckles at the innocent request, unaware of the unfolding events. While agrees readily and imprints the technique onto you and explaining magic flow, his attention abruptly draws to a commotion above. Descending from the sky, a menacing figure demands something from the monk, holding Yan captive.
+    </string>
+    <string name="plot_3_dec_2_part2">
+        Recognizing the danger, the monk shields you and initiates a deceptive magic burst to rescue Yan. In the ensuing struggle, the monk prevails but sustains severe injuries. He entrusts you with a relic, the "Blood Pearl," urging caution until you find its counterpart, the Staff of Purity. With a final warning, he fades into the shadows.
+    </string>
+    <string name="plot_3_dec_2_part3">
+        Overwhelmed by the magics imprint, you collapse beside Yan and wake up the following morning. You rouse Yan, and together you return to the village to find chaos: villagers murdered, homes ablaze, and structures crumbling. A stranger intervenes, covering your eyes and urging you both to follow him to his sect for sanctuary.
+    </string>
+
+    <string name="plot_3_dec_2.2_part1">
+        The monk pulls you back with magic and thrusts a relic into your hands, its weight heavy with unspoken significance. His attention abruptly draws to a commotion above. Descending from the sky, a menacing figure demands something from the monk, holding Yan captive.
+    </string>
+    <!--    <string name="plot_3_dec_2.2_part2">-->
+    <!--        In the ensuing struggle, the monk prevails but sustains severe injuries. He urges caution regarding the relic, the "Blood Pearl," until you find its counterpart, the Staff of Purity. With a final warning, he fades into the shadows. Overwhelmed by the encounter, you collapse beside Yan and wake up the following morning.-->
+    <!--    </string>-->
+    <!--    <string name="plot_3_dec_2.2_part3">-->
+    <!--        You rouse Yan, and together you return to the village to find chaos: villagers murdered, homes ablaze, and structures crumbling. A stranger intervenes, covering your eyes and urging you both to follow him to his sect for sanctuary.-->
+    <!--    </string>-->
+
+    <string name="plot_sp_3_dec3.3">
+        After talking with the mysterious man, you and Yan decide that he is trustworthy, and it is best to go with him.
+    </string>
+
+    <string name="plot_4_dec_3.1">
+        You and Yan decides to trust the mysterious man and accepts his offer to join his sect, the Truth Path Sect. You are given the chance to select a sect within the Truth Path Sect to begin training and become one of their own.
+    </string>
+
+    <string name="plot_4_dec_3.2">
+        Cautious after recent events, you decline the offer to join the mysterious mans sect. Opting to explore with Yan, you seek answers about the village attack and the Blood Pearls significance.
+    </string>
+
+    <string name="plot_4_dec_3.3">
+        Rather than hastily accepting or declining, you inquire further about the mysterious mans sect and their motives. As you converse, you evaluate his trustworthiness and weigh the potential benefits for you and Yan. Depending on his responses, you will determine whether to join or decline the offer.
+    </string>
+
+    <string name="hiddenBamboo">The Hidden Bamboo Sect, nestled in a tranquil, remote area reminiscent of your home, boasts friendly and cooperative disciples. Though the sect leader and head disciple lack renown, their kindness and warmth compensate for it.</string>
+    <string name="waterMist">The Water Mist Sect is known for its strictness and ambition, housing competitive disciples who consistently excel in tournaments. Led by a strict sect master and a driven head disciple, their focus lies on power and ambition.</string>
+
+    <string name="epilogue_1_dec_1.3">A man had attacked the village at night.</string>
+    <string name="bridge_1">7 Years have passed...</string>
+    <string name="epilogue_2_dec_3.2">Without help and lack of experience you were unable to find the Staff of Purity</string>
+    <string name="bridge_2_dec_4.1_part1">Disciples from all sects within the Truth Path prepare for a tournament. Its your and Yans first real battle. Despite warnings, you train deep in the woods and are pulled into a river where you drown. Echoes of the monks words haunt you as you sink, mentioning the "Staff of Purity."</string>
+    <string name="bridge_2_dec_4.1_part2"> The Blood Pearl merges with a strange staff at the rivers bottom. Awakening beside the merged staff, you realize its the Staff of Purity, and the tournament is today.</string>
+    <string name="bridge_2_dec_4.2">As disciples of all sects within the Truth Path prepare for a tournament, you and Yan gear up for your first real battle. Restricted to the sect grounds by strict rules, you have failed to seek out the Staff of Purity, the counterpart to your relic, and are compelled to enter the tournament wielding a sword.</string>
+    <string name="bridge_3">End of Chapter I...</string>
+
+
+    //decisions
+    <string name="decision_1.1">You head outside without waking up you parents and fill your curiosity.</string>
+    <string name="decision_1.2">You wake up your parents and tell them about it</string>
+    <string name="decision_1.3">You ignore it and goes back to sleep</string>
+
+    <string name="decision_2.1_dec_1.1">Intrigued by the monks magic you ask him to teach you</string>
+    <string name="decision_2.2_dec_1.1">You start to run away the moment he puts you down</string>
+
+    <string name="decision_3.1_dec_1.1_1.2">Not knowing what to do you agree</string>
+    <string name="decision_3.2_dec_1.1_1.2">Refuse the Offer and Choose Independence</string>
+    <string name="decision_3.3_dec_1.1_1.2">Question the Mysterious Man Further</string>
+
+    <string name="decision_sp_3.1_plot_sp_3">Go to his Sect with him</string>
+
+    <string name="decision_4.1_dec_3.1">Join the Hidden Bamboo Sect</string>
+    <string name="decision_4.2_dec_3.1">Join the Water Mist Sect</string>
+    <string name="decision_4.3_dec_3.1">Question about each sect</string>
+</resources>

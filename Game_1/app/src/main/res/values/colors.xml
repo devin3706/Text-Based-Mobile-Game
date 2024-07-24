@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="ash">#8C8C8C</color>
+    <color name="objective">#ED7272</color>
+    <color name="title_bg">#9F2E1313</color>
+    <color name="page_bg">#FF200D0D</color>
+    <color name="plot_bg">#65773737</color>
+</resources>
